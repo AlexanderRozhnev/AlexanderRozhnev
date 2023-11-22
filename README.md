@@ -1,6 +1,5 @@
-### Hi there 👋
-I'm Alexander.  
-I am C++ developer.
+### Hi there, I'm Alexander.  
+C++ developer
 
 - 📫 How to reach me: https://t.me/agr_ro
   
