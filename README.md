@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Alexander.  
+I am C++ developer.
 
+- 📫 How to reach me: https://t.me/agr_ro
+  
 <!--
 **AlexanderRozhnev/AlexanderRozhnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
