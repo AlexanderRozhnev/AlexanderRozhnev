@@ -3,7 +3,11 @@
 	<h3>C++ developer</h3>
 </div>
 
-- 📫 How to reach me: https://t.me/agr_ro
+<div id="socilas" align="center">
+	<a href="https://t.me/agr_ro">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
   
 <!--
 **AlexanderRozhnev/AlexanderRozhnev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
