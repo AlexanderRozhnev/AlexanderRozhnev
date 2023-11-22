@@ -1,5 +1,7 @@
-### Hi there, I'm Alexander.  
-C++ developer
+<div id="header" align-"center">
+	<h1>hi there, I'm Alexander</h1>
+	<h3>C++ developer</h3>
+</div>
 
 - 📫 How to reach me: https://t.me/agr_ro
   
